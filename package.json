@@ -1,0 +1,9 @@
+{
+  "name": "my-assets",
+  "version": "1.0.0",
+  "author": "ScaleDynamics",
+  "license": "MIT",
+  "devDependencies": {
+    "warp": "^4.0.14"
+  }
+}
