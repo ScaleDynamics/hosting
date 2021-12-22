@@ -4,6 +4,6 @@
   "author": "ScaleDynamics",
   "license": "MIT",
   "devDependencies": {
-    "warp": "^4.0.15"
+    "warp": "^4.0.18"
   }
 }
