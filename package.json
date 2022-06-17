@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "author": "ScaleDynamics",
   "license": "MIT",
+  "scripts": {
+    "deploy": "warp deploy"
+  },
   "devDependencies": {
-    "warp": "^4.0.19"
+    "warp": "^4.0.21"
   }
 }
