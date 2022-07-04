@@ -7,6 +7,6 @@
     "deploy": "warp deploy"
   },
   "devDependencies": {
-    "warp": "^4.0.21"
+    "warp": "^4.0.22"
   }
 }
